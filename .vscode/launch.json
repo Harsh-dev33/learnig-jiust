@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run 1.exe",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "D:/Coding/practice logic building/1.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "D:/Coding/practice logic building",
+      "environment": [],
+      "externalConsole": true
+    }
+  ]
+}
